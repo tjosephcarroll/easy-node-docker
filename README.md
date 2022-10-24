@@ -23,6 +23,14 @@ Docker:
 choco install docker
 brew install docker
 ```
+
+Local Testing [opional]:
+
+```
+npm install
+npm test
+```
+
 Docker Build.
 
 ```
